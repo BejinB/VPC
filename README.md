@@ -1,6 +1,7 @@
 
 ## Ex.4 Deployment and configuration of a Private Cloud  in AWS
-
+#### Name: BEJIN B
+#### Reg no: 212222230021
 ## Aim:
 To set up of a Private Cloud  in AWS.
 
